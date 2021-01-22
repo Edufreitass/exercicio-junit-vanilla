@@ -1,0 +1,15 @@
+EXEMPLO VÁLIDO:
+totalAmount = 100000
+income = 2000
+months = 80
+
+entry() = 20000
+quota() = 1000
+
+EXEMPLO INVÁLIDO:
+totalAmount = 100000
+income = 2000
+months = 79
+
+entry() = 20000
+quota() = 1012.66
